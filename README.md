@@ -23,4 +23,6 @@ Instruction for testing:
 2. Agreement Copy Test: Generate an agreement and click "Copy Text to Clipboard." Paste the contents into a text editor to confirm the full agreement text was copied.
 
    <img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/5ca9c43d-b479-4bc9-9e91-89914afd9cac" />
+   <img width="1916" height="963" alt="image" src="https://github.com/user-attachments/assets/0ef2d1b8-3a2b-40d9-9db4-176090f4752a" />
+
    
